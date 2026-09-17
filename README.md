@@ -57,6 +57,8 @@ Full-stack developer with specialized experience building end-to-end intelligent
 **Bachelor of Computer Applications (BCA)**  
 Kalinga Institute of Industrial Technology (KIIT)  
 
+
+
 **Master's of Computer Applications (MCA)**
 Thapar Institute of Engineering and Technology (TIET)
 
