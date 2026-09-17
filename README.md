@@ -1,7 +1,7 @@
 # Bristi Barua
 
 **Full-Stack & AI Systems Developer**  
-[Live Portfolio](https://vercel.com/arshie/portfolio/4Zy4Qz69i3ggSoW4xf1ZxsKgcNQx) • [GitHub](https://github.com/Brististic) • [Email](mailto:baruabristi1@gmail.com)
+[Live Portfolio](https://portfolio-arshie.vercel.app/) • [GitHub](https://github.com/Brististic) • [Email](mailto:baruabristi1@gmail.com)
 
 ---
 
@@ -56,7 +56,9 @@ Full-stack developer with specialized experience building end-to-end intelligent
 
 **Bachelor of Computer Applications (BCA)**  
 Kalinga Institute of Industrial Technology (KIIT)  
-*Core Focus:* Data Structures & Algorithms, Deep Learning, Software Engineering, Database Systems
+
+**Master's of Computer Applications (MCA)**
+Thapar Institute of Engineering and Technology (TIET)
 
 ---
 
