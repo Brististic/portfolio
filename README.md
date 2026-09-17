@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bristi Barua
 
-## Getting Started
+**Full-Stack & AI Systems Developer**  
+[Live Portfolio](https://vercel.com/arshie/portfolio/4Zy4Qz69i3ggSoW4xf1ZxsKgcNQx) • [GitHub](https://github.com/Brististic) • [Email](mailto:baruabristi1@gmail.com)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Professional Summary
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Full-stack developer with specialized experience building end-to-end intelligent web platforms, retrieval-augmented generation (RAG) pipelines, and deep learning computer vision architectures. Proven background engineering modern user interfaces in React/Next.js alongside scalable Python and FastAPI backends, with a focus on medical imaging diagnostics, semantic information retrieval, and low-latency API design.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technical Competencies
 
-## Learn More
+* **Languages:** Python, TypeScript, JavaScript (ES6+), C++, SQL, HTML5/CSS3
+* **AI & Machine Learning:** PyTorch, TorchIO, MONAI, Scikit-Learn, LangChain, RAG Systems, Vector Embeddings, Computer Vision
+* **Frontend Development:** React.js, Next.js (App Router), Tailwind CSS, Framer Motion, Responsive UI/UX
+* **Backend & Databases:** FastAPI, Flask, Node.js, RESTful APIs, ChromaDB, PostgreSQL, SQLite
+* **Developer Tools:** Git, GitHub, Docker, Postman, Vercel, Linux
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Featured Engineering Projects
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Clinical-3D-MRI-Pathology
+*Volumetric Deep Learning Pipeline for 3D Medical Imaging Diagnostics* | [Repository](https://github.com/Brististic/Clinical-3D-MRI-Pathology)
+* Developed an end-to-end 3D convolutional neural network pipeline handling volumetric MRI tensors to eliminate 2D slice information loss.
+* Engineered automated voxel normalization, 3D spatial data augmentations, and thresholded segmentation masking routines.
+* Accelerated data preprocessing throughput via vectorized tensor batching and optimized GPU inference routines.
+* **Tech Stack:** PyTorch, TorchIO / MONAI, NumPy, SimpleITK, Python
 
-## Deploy on Vercel
+### AI-Powered-Election-Assistant
+*Grounded Civic Intelligence Engine with Retrieval-Augmented Generation* | [Repository](https://github.com/Brististic/AI-Powered-Election-Assistant)
+* Architected a contextual RAG pipeline converting legal and civic document corpuses into dense vector spaces for contextual question answering.
+* Enforced semantic similarity filtering, metadata routing, and strict source-attribution guardrails to eliminate ungrounded answers.
+* Implemented asynchronous response streaming from a FastAPI backend to an interactive React client interface.
+* **Tech Stack:** LangChain, ChromaDB, FastAPI, OpenAI / Open-Source LLMs, React
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### ai-search-app
+*Low-Latency Semantic Search & Information Retrieval System* | [Repository](https://github.com/Brististic/ai-search-app)
+* Built a semantic search platform translating natural-language queries into dense embeddings for real-time cosine similarity ranking.
+* Reduced search latency to sub-100ms response windows while significantly improving result relevance over lexical keyword lookups.
+* **Tech Stack:** Next.js, Tailwind CSS, Python, FastAPI, Sentence-Transformers, Vector Search
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Multi-disease-prediction-system
+*Multi-Parametric Clinical Diagnostic & Risk Profiling Platform* | [Repository](https://github.com/Brististic/Multi-disease-prediction-system)
+* Trained, evaluated, and deployed multi-disease supervised classifiers analyzing distinct sets of patient clinical biomarkers.
+* Configured probability calibration and precision-recall tuning to minimize critical false negatives in early diagnostic risk screening.
+* Delivered an accessible web dashboard enabling fast tabular input ingestion and real-time risk reporting.
+* **Tech Stack:** Scikit-Learn, Pandas, NumPy, Python, Streamlit / Flask
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+Kalinga Institute of Industrial Technology (KIIT)  
+*Core Focus:* Data Structures & Algorithms, Deep Learning, Software Engineering, Database Systems
+
+---
+
+## Architecture & Deployment
+
+This portfolio is built as a production-grade web application:
+* **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS
+* **Deployment:** CI/CD automated pipeline via Vercel
+* **Performance:** Static generation with zero client-side layout shifts
